@@ -2,7 +2,7 @@
 
 **Ask your data questions in plain language. Get answers straight from the database.**
 
-
+![Netflix Intelligence app answering a question in plain language](demo.png)
 
 ---
 
