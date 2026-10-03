@@ -2,8 +2,7 @@
 
 **Ask your data questions in plain language. Get answers straight from the database.**
 
-<!-- DEMO VIDEO: replace with your Loom/YouTube link -->
-▶️ **[Watch the 3-minute demo](LINK_TO_VIDEO)**
+
 
 ---
 
